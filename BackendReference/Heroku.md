@@ -39,6 +39,7 @@ npm i -g heroku-dotenv
 heroku-dotenv push
 ```
 이렇게 하면 heroku-dotenv 가  .env 파일에 저장해 놓은 환경변수들을 연결되어 있는 heroku서버에 전달하고 적용시킴
+![jawsdbmaria](https://user-images.githubusercontent.com/73014464/164972954-7c907161-a7d1-4408-9944-2052eb087f9b.png)
 
  
  
